@@ -2,7 +2,7 @@
 
 A modern, responsive admin panel inspired by Intercom's AI-enhanced customer support platform. Built with React, TypeScript, and Tailwind CSS.
 
-![Dashboard Overview](https://images.pexels.com/photos/8439094/pexels-photo-8439094.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Dashboard Overview](https://github.com/user-attachments/assets/fd7522fd-d8d0-4b89-b8b1-71e044138995)
 
 ## 🌟 Key Features
 
@@ -12,8 +12,8 @@ A modern, responsive admin panel inspired by Intercom's AI-enhanced customer sup
 - AI-powered insights
 - Recent activity tracking
 - Dark/light mode support
-
-![Analytics Dashboard](https://images.pexels.com/photos/7681091/pexels-photo-7681091.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+  
+![Customers](https://github.com/user-attachments/assets/8651e8d4-d406-46d9-a70d-5b2bbe7b0843)
 
 ### 📬 Smart Inbox
 - Unified conversation management
@@ -22,7 +22,7 @@ A modern, responsive admin panel inspired by Intercom's AI-enhanced customer sup
 - Advanced filtering options
 - Real-time chat status indicators
 
-![Inbox Management](https://images.pexels.com/photos/8867482/pexels-photo-8867482.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Inbox Management](https://github.com/user-attachments/assets/0ba5c0d5-5e48-4bf1-a369-dc3ab8f3018c)
 
 ### 👥 Customer Management
 - Comprehensive customer profiles
@@ -72,9 +72,6 @@ A modern, responsive admin panel inspired by Intercom's AI-enhanced customer sup
 ## 📱 Responsive Design
 
 The application is fully responsive across all device sizes:
-
-### Desktop View
-![Desktop View](https://images.pexels.com/photos/8566472/pexels-photo-8566472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 ### Tablet View
 - Collapsible sidebar
